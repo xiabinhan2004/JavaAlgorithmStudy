@@ -28,5 +28,6 @@ public class App {
         System.out.println(sj2);
         int se = sc.nextInt();
         System.out.println(al.indexOf(se));
+        sc.close();
     }
 }

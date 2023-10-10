@@ -36,5 +36,6 @@ public class Test {
         String FindNum=sc.nextLine();
         int index=ls.indexOf(FindNum);  
         System.out.println(index);
+        sc.close();
     }
 }
